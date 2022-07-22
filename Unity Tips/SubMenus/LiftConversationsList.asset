@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb432aed4c0f89946a6aa20b98afc248, type: 3}
+  m_Name: LiftConversationsList
+  m_EditorClassIdentifier: 
+  conversationsList:
+  - Day1/Boss1.2
+  - Day1/Robber1.4
+  - Day2/A
+  - Day2/B
+  - Day3/C
+  - Day4/Journalist1.2
